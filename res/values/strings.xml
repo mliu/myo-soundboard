@@ -1,0 +1,6 @@
+<resources>
+
+    <string name="app_name">MyoSoundboard</string>
+	<string name="default_connection_status">Not Connected</string>
+    
+</resources>
